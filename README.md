@@ -17,7 +17,7 @@ Name      : Yash Tyagi
 Alias     : MR Developer
 Location  : India 🇮🇳
 Role      : Full Stack Developer
-Passion   : AI, Automation, Web Development
+Passion   : AI, Automation, Web Development, Ethical Hacking
 Mission   : Build Innovative Digital Products
 ```
 
