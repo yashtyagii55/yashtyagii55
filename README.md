@@ -149,7 +149,7 @@ Development:
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://t.me">
+<a href="https://t.me/Mrdeveloper55">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
 </a>
 
